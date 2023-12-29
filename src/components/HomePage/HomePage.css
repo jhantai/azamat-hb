@@ -1,0 +1,27 @@
+.HomePage-style {
+    margin-top: 50px;
+    border: none;
+    background: none;
+    width: 100px;
+    height: 200px;
+    color: aliceblue;
+    border-radius: 20px;
+    position: relative;
+    z-index: 10;
+}
+
+.HomePage-home {
+    height: 100vh;
+    background-color: darkgray;
+    padding-top: 90px;
+}
+
+.background {
+    margin-bottom: -20px;
+}
+
+.podarok {
+    width: 200px;
+    margin-top: -1300px;
+    background: none;
+}
