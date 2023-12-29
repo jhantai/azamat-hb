@@ -10,7 +10,7 @@ function TextPage() {
     <div>
       <div className=" homePage">
       <img className='razdelitel1' src={razdelitel2} alt="" />
-      <h1>C Днём рождения Азамат </h1>
+    
       <img src={azamat11} alt="" />
       <h1 className='pozhelanie'>Уважаемый Азамат Рыспаевич,извольте поздравить вас с Днем рождения.</h1>
       <img className='razdelitel' src={razdelitel2} alt="" />
