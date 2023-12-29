@@ -20,7 +20,7 @@ function TextPage() {
       <img src={azamat8} alt="" />
       <h1> Ловите каждый счастливый момент в вашей жизни и наслаждайтесь им .</h1>
       <img className='razdelitel' src={razdelitel2} alt="" />
-      hfhfhf
+      
       </div>
     </div>
   );
