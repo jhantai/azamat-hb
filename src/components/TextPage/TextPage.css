@@ -19,3 +19,9 @@ height: 150px;
   height: 120px;
   
 }
+.homePage{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
